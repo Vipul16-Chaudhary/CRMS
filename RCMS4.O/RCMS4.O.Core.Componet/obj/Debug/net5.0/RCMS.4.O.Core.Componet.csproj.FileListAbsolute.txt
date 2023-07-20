@@ -1,0 +1,12 @@
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\bin\Debug\net5.0\RCMS.4.O.Core.Componet.deps.json
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\bin\Debug\net5.0\RCMS.4.O.Core.Componet.dll
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\bin\Debug\net5.0\RCMS.4.O.Core.Componet.pdb
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.csproj.AssemblyReference.cache
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.GeneratedMSBuildEditorConfig.editorconfig
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.AssemblyInfoInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.AssemblyInfo.cs
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.csproj.CoreCompileInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.dll
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\refint\RCMS.4.O.Core.Componet.dll
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\RCMS.4.O.Core.Componet.pdb
+D:\RCMS4.O\RCMS4.O\RCMS4.O.Core.Componet\obj\Debug\net5.0\ref\RCMS.4.O.Core.Componet.dll

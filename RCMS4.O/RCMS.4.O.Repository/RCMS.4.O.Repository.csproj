@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>RCMS._4.O.Repository</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.116" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RCMS.4.O.Core.Component\RCMS.4.O.Core.Component.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.Interfaces\RCMS.4.O.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

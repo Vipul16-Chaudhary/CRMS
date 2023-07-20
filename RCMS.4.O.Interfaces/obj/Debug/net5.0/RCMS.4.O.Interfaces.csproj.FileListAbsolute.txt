@@ -1,0 +1,15 @@
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\bin\Debug\net5.0\RCMS.4.O.Interfaces.deps.json
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\bin\Debug\net5.0\RCMS.4.O.Interfaces.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\bin\Debug\net5.0\RCMS.4.O.Interfaces.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\bin\Debug\net5.0\RCMS.4.O.Entities.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\bin\Debug\net5.0\RCMS.4.O.Entities.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.csproj.AssemblyReference.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.AssemblyInfoInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.AssemblyInfo.cs
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.csproj.CoreCompileInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.csproj.CopyComplete
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\refint\RCMS.4.O.Interfaces.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\RCMS.4.O.Interfaces.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Interfaces\obj\Debug\net5.0\ref\RCMS.4.O.Interfaces.dll

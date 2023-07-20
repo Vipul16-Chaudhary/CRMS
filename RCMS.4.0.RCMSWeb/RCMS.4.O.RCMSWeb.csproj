@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>RCMS._4._0.RCMSWeb</RootNamespace>
+  </PropertyGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4lib_4bootstrap_4dist_4css_4bootstrap-grid_1css_1map__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" Version="2.2.0" />
+    <PackageReference Include="xunit.extensibility.core" Version="2.4.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RCMS.4.O.API\RCMS.4.O.API.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.Common\RCMS.4.O.Common.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.Entities\RCMS.4.O.Entities.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.Utilities\RCMS.4.O.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RCMS.4.O.SimankanWeb.props" />
+</Project>

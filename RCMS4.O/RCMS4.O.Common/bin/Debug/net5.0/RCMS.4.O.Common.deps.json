@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RCMS.4.O.Common/1.0.0": {
+        "runtime": {
+          "RCMS.4.O.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RCMS.4.O.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

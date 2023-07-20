@@ -1,0 +1,12 @@
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\bin\Release\net5.0\RCMS.4.O.Entities.deps.json
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\bin\Release\net5.0\RCMS.4.O.Entities.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\bin\Release\net5.0\RCMS.4.O.Entities.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.csproj.AssemblyReference.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.AssemblyInfoInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.AssemblyInfo.cs
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.csproj.CoreCompileInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\refint\RCMS.4.O.Entities.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\RCMS.4.O.Entities.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Entities\obj\Release\net5.0\ref\RCMS.4.O.Entities.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKihxT0wvkONOCOrr6/ReE0xjdz8RAKJ3S/NrcNZy8kuPdWUbmKExRvKqOc13lPGxjgbSkjGw1gpzp3mZkdcDw==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\RCMS4.O\\RCMS4.O\\RCMS.4.O.Entities\\RCMS.4.O.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.0.0\\swashbuckle.aspnetcore.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.0.0\\swashbuckle.aspnetcore.swagger.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.0.0\\swashbuckle.aspnetcore.swaggergen.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>RCMS._4.O.Core.Componet</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.116" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RCMS.4.O.Common\RCMS.4.O.Common.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.ConfigurationManager\RCMS.4.O.ConfigurationManager.csproj" />
+    <ProjectReference Include="..\RCMS.4.O.Entities\RCMS.4.O.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

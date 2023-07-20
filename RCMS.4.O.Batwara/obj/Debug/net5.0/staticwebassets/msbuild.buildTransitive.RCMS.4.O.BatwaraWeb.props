@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RCMS.4.O.BatwaraWeb.props" />
+</Project>

@@ -1,0 +1,15 @@
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\bin\Release\net5.0\RCMS.4.O.Common.deps.json
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\bin\Release\net5.0\RCMS.4.O.Common.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\bin\Release\net5.0\RCMS.4.O.Common.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\bin\Release\net5.0\RCMS.4.O.Entities.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\bin\Release\net5.0\RCMS.4.O.Entities.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.csproj.AssemblyReference.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.AssemblyInfoInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.AssemblyInfo.cs
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.csproj.CoreCompileInputs.cache
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.csproj.CopyComplete
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\refint\RCMS.4.O.Common.dll
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\RCMS.4.O.Common.pdb
+D:\RCMS4.O\RCMS4.O\RCMS.4.O.Common\obj\Release\net5.0\ref\RCMS.4.O.Common.dll
